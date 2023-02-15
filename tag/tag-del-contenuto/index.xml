@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag del contenuto | Procida Coraggiosa</title>
+    <link>https://procidacoraggiosa.github.io/tag/tag-del-contenuto/</link>
+      <atom:link href="https://procidacoraggiosa.github.io/tag/tag-del-contenuto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tag del contenuto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://procidacoraggiosa.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tag del contenuto</title>
+      <link>https://procidacoraggiosa.github.io/tag/tag-del-contenuto/</link>
+    </image>
+    
+    <item>
+      <title>Questo sarebbe il nome del contenuto che si apre in pagina a se stante</title>
+      <link>https://procidacoraggiosa.github.io/lista_contenuti/content_example/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://procidacoraggiosa.github.io/lista_contenuti/content_example/</guid>
+      <description>&lt;p&gt;Descrizione del contenuto&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

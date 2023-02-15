@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Procida Coraggiosa</title>
+    <link>https://procidacoraggiosa.github.io/author/procida-coraggiosa/</link>
+      <atom:link href="https://procidacoraggiosa.github.io/author/procida-coraggiosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Procida Coraggiosa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://procidacoraggiosa.github.io/author/procida-coraggiosa/avatar_hu9d6db89ae05dcf7f5eff6b2a0f6dd5d8_37908_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Procida Coraggiosa</title>
+      <link>https://procidacoraggiosa.github.io/author/procida-coraggiosa/</link>
+    </image>
+    
+    <item>
+      <title>Political trust in the first year of the COVID-19 pandemic: A meta-analysis of 67 studies</title>
+      <link>https://procidacoraggiosa.github.io/pubblicazioni/2023_01_covid_trust_meta/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://procidacoraggiosa.github.io/pubblicazioni/2023_01_covid_trust_meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do the media scrutinise central banking? Evidence from the Bank of England</title>
+      <link>https://procidacoraggiosa.github.io/pubblicazioni/2022_09_koop_boe_acc/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://procidacoraggiosa.github.io/pubblicazioni/2022_09_koop_boe_acc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring public support for European integration using a Bayesian IRT model</title>
+      <link>https://procidacoraggiosa.github.io/pubblicazioni/2021_11_irt/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://procidacoraggiosa.github.io/pubblicazioni/2021_11_irt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questo sarebbe il nome del contenuto che si apre in pagina a se stante</title>
+      <link>https://procidacoraggiosa.github.io/lista_contenuti/content_example/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://procidacoraggiosa.github.io/lista_contenuti/content_example/</guid>
+      <description>&lt;p&gt;Descrizione del contenuto&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
